@@ -13,3 +13,5 @@ main() {
 		while(pid != wait(&status));
 	exit(0);
 }
+
+/* http://labsopa.dis.ulpgc.es/prog_c/PROCES.HTM !!!! */
