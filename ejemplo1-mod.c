@@ -1,5 +1,7 @@
 #include <sys/types.h>
 #include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
 /*programa que ejecuta el mandato ls -1*/
 main() {
 	pid_t pid[2];
