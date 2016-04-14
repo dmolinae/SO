@@ -4,7 +4,7 @@
 main()
 {
     printf(" proceso que lanza el programa test \n");
-    system("/home/rvega/Escritorio/test"); 
+    system("/home/laboratorio/SO/test"); 
     printf(" proceso que lanzó el programa test \n"); 
 }
 

@@ -5,7 +5,7 @@ main()
 {
     char * tira[] = {NULL};
     printf(" proceso que lanza el programa test \n");
-    execv("/home/rvega/Escritorio/test", tira);
+    execv("/home/laboratorio/SO/test", tira);
     printf(" proceso que lanzó el programa test \n"); 
 }
 
